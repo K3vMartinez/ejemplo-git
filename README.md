@@ -12,7 +12,7 @@ Esto es un __texto__
 
 
 - [ ] Uno
-- [ ] Dos
+- [x] Dos
 - [ ] Tres
 
 `Hola` a todos, `qué` tal estaís?
